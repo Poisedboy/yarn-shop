@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yarn-shop/static/css/main.95b479eb.chunk.css",
+    "main.js": "/yarn-shop/static/js/main.ce89f79a.chunk.js",
+    "main.js.map": "/yarn-shop/static/js/main.ce89f79a.chunk.js.map",
+    "runtime-main.js": "/yarn-shop/static/js/runtime-main.bcc9b813.js",
+    "runtime-main.js.map": "/yarn-shop/static/js/runtime-main.bcc9b813.js.map",
+    "static/js/2.c4e4b760.chunk.js": "/yarn-shop/static/js/2.c4e4b760.chunk.js",
+    "static/js/2.c4e4b760.chunk.js.map": "/yarn-shop/static/js/2.c4e4b760.chunk.js.map",
+    "index.html": "/yarn-shop/index.html",
+    "precache-manifest.69d035c6cc45e1cc4eb908120407fe1d.js": "/yarn-shop/precache-manifest.69d035c6cc45e1cc4eb908120407fe1d.js",
+    "service-worker.js": "/yarn-shop/service-worker.js",
+    "static/css/main.95b479eb.chunk.css.map": "/yarn-shop/static/css/main.95b479eb.chunk.css.map",
+    "static/js/2.c4e4b760.chunk.js.LICENSE.txt": "/yarn-shop/static/js/2.c4e4b760.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcc9b813.js",
+    "static/js/2.c4e4b760.chunk.js",
+    "static/css/main.95b479eb.chunk.css",
+    "static/js/main.ce89f79a.chunk.js"
+  ]
+}
